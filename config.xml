@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>HelloCordova</name>
+    <description>
+        A proof of concept application to test the in-app-browser plugin.
+    </description>
+    <author email="eric@ericcarlisle.com" href="http://www.ericcarlisle.com">
+        Eric Carlisle
+    </author>
+    <content src="index.html" />
+    <access origin="http://www.ericcarlisle.com" />
+    <access origin="https://www.google.com" />
+    <access origin="*" />
+</widget>

@@ -1,0 +1,23 @@
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes.dex : \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/io/cordova/hellocordova/BuildConfig.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/io/cordova/hellocordova/CordovaApp.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/io/cordova/hellocordova/R$attr.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/io/cordova/hellocordova/R$drawable.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/io/cordova/hellocordova/R$string.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/io/cordova/hellocordova/R$xml.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/io/cordova/hellocordova/R.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/eric/projects/test/in-app-browser/platforms/android/ant-build/dexedLibs/classes-6d505b78fa3ed0bcfb9c96f0009fcea3.jar \
