@@ -1,1 +1,1 @@
-alert('Hello from $.get()');
+alert('Hello from linking!');
