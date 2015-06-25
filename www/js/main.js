@@ -34,8 +34,8 @@ function onDeviceReady(){
 }
 
 function inject(){
-    // JS works this way.
-    ref.executeScript({file:"js/test.js"});
+    // JS works this way IF this is also a <script/> tag in the HTML.
+    //ref.executeScript({file:"js/test.js"});
 
     // But not CSS.
     // ref.insertCSS({file:"css/test.css"});
@@ -44,4 +44,5 @@ function inject(){
     // var style = $("<link rel='stylesheet' type='text/css' href='css/test.css'></script>");
     // $('head').append(style);
     // ref.insertCSS({file:"css/test.css"});
+
 }
